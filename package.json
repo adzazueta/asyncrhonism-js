@@ -1,0 +1,15 @@
+{
+  "name": "asynchronism-exercises",
+  "version": "1.0.0",
+  "description": "Project with some asynchronism exercises in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Asynchronism"
+  ],
+  "author": "Alexis D. Zazueta <alexisd.zazueta@gmail.com>",
+  "license": "MIT"
+}
